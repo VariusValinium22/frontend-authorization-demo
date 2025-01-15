@@ -81,3 +81,8 @@ const Register = ({ handleRegistration }) => {
 };
 
 export default Register;
+
+
+
+
+
