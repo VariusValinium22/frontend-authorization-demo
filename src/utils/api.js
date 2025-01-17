@@ -1,4 +1,4 @@
-export const BASE_URL = "http://api.nomoreparties.co";
+export const BASE_URL = "https://api.nomoreparties.co";
 
 export const getUserInfo = (token) => {
   return fetch(`${BASE_URL}/users/me`, {
